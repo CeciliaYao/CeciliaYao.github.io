@@ -56,11 +56,9 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 800px; 
-            width: 100%; // 确保图片在父容器中全宽度显示
-            height: auto; // 自动调整高度以保持宽高比
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
             object-fit: cover;
-            border-radius: 0; // 移除圆角，改为方形
         }
     }
     
