@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, this is Yuanqi Yao (姚元淇，Or CC Yao). I am a graduate student at HIT(Harbin Institute of Technology), advised by Prof. Junjun Jiang.
+Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Science at Harbin Institute of Technology (HIT), under the guidance of Prof. Junjun Jiang. Previously, I earned my B.Eng. Degree in Computer Science from HIT. 
+
+Currently, I am interning at the Shanghai Artificial Intelligence Laboratory, focusing on Embodied AI (Robotics) and Autonomous Driving.
 
 我的研究领域包括：
 - 仪器仪表
