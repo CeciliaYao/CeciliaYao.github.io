@@ -81,7 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
+  width: 150px; // 75
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -92,8 +92,8 @@
   }
 
   img {
-    max-width: 200px;
-    min-width: 75px;
+    max-width: 200px; //150
+    min-width: 150px; //75
     border-radius: 0; /* 将圆形改为方形 */
     // border-radius: 50%;
      
