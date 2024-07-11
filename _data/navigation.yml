@@ -3,17 +3,11 @@ main:
   - title: "About me"
     url: "/zh-cn/#about-me"
 
-  - title: "Educations"
-    url: "/zh-cn/#-xl"
-
-  - title: "Publications"
-    url: "/zh-cn/#-lwzl"
+  - title: "Internships"
+    url: "/zh-cn/#-gzsx"
 
   - title: "Honors and Awards"
     url: "/zh-cn/#-ryjx"
 
-  - title: "Conferences"
-    url: "/zh-cn/#-xshy"
-
-  - title: "Internships"
-    url: "/zh-cn/#-gzsx"
+  - title: "Publications"
+    url: "/zh-cn/#-lwzl"
