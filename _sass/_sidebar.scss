@@ -81,7 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 150px; // 75
+  width: 200px; // 75
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -92,15 +92,15 @@
   }
 
   img {
-    max-width: 200px; //150
-    min-width: 150px; //75
+    max-width: 300px; //150
+    min-width: 200px; //75
     border-radius: 0; /* 将圆形改为方形 */
     // border-radius: 50%;
      
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      // border: 1px solid $border-color;
     }
   }
 }
