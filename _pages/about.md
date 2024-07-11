@@ -36,7 +36,7 @@ Interets：
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Publications
 
 ### 英文
 ---
