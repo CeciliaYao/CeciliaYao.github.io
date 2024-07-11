@@ -30,7 +30,7 @@ Interets：
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 Educations
 - *2022.06 - 2025.02*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> MEng in Computer Science, Harbin Institute of Technology.
 - *2018.09 - 2022.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> BEng in Computer Science, Harbin Institute of Technology.
  
