@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanqi Yao"
-description              : "电磁无损检测"
+description              : "(CC Yao)"
 repository               : "CeciliaYao/CeciliaYao.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Yuanqi Yao"
   avatar           : "images/yyq.png"
   bio              : "Harbin Institute of Technology"
-  location         : "Shanghai"
+  location         : "Shanghai, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
