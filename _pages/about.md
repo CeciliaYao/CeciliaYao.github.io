@@ -21,14 +21,10 @@ Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Scie
 
 Currently, I am interning at the Shanghai Artificial Intelligence Laboratory, focusing on Embodied AI (Robotics) and Autonomous Driving.
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+Interets：
+- Embodied AI (Robotics)
+- Continual Learning
+- Autonomous Driving
   
 
 
