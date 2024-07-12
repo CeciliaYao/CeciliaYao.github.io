@@ -30,8 +30,10 @@ Currently, I am interning at the Shanghai Artificial Intelligence Laboratory, fo
 - *2022.06 - 2022.10*, Perception Intern, NIO Inc.
 
 # 🏅 Honors and Awards
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
+- Top-Level Scholarship of Graduate Student. *2023.* 
+- 1st place at ICCV2023 The ROAD++ Challenge, Spatiotemporal Agent Detection Track! (ICCV 2023 Workshop)
+- 2st place at ICCV2023 The ROAD++ Challenge, Spatiotemporal road event detection Track! (ICCV 2023 Workshop)
+- 3st place at ICRA2023 The RoboDepth Challenge, Self-supervised Depth Estimation Track! (ICRA 2023 Workshop)
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 
 # 📝 Publications
