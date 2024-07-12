@@ -24,9 +24,10 @@ Currently, I am interning at the Shanghai Artificial Intelligence Laboratory, fo
 <span class='anchor' id='-xl'></span>
 
 # 💻 Internships
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2023.12 - Now*, Embodied AI Research Intern, Shanghai AI Laboratory
+- *2023.08 - 2023.11*, Computer Vision Intern, Baidu VIS
+- *2023.06 - 2023.08*, Computer Vision Research Intern, Lenovo Research
+- *2022.06 - 2022.10*, Perception Intern, NIO Inc.
 
 # 🏅 Honors and Awards
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
