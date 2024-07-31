@@ -24,17 +24,19 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 <span class='anchor' id='-xl'></span>
 
 # 💻 Internships
-- *2023.12 - Now*, Embodied AI Research Intern, [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/)
-- *2023.08 - 2023.11*, Computer Vision Intern,  [<ins>Baidu VIS</ins>](https://vis.baidu.com/#/)
-- *2023.06 - 2023.08*, Computer Vision Research Intern, [<ins>Lenovo Research</ins>](https://research.lenovo.com/)
-- *2022.06 - 2022.10*, Perception Intern, NIO Inc.
+- *2023.11 - Now*, Embodied AI Research Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
+- *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
+- *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/)
+- *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.cn/)
 
 # 🏅 Honors and Awards
-- Top-Level Scholarship of Graduate Student. *2023.* 
-- 1st place at ICCV2023 The ROAD++ Challenge, Spatiotemporal Agent Detection Track! (ICCV 2023 Workshop)
-- 2st place at ICCV2023 The ROAD++ Challenge, Spatiotemporal road event detection Track! (ICCV 2023 Workshop)
-- 3st place at ICRA2023 The RoboDepth Challenge, Self-supervised Depth Estimation Track! (ICRA 2023 Workshop)
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+- **2^{nd}** place at ECCV 2024 Advances in Image Manipulation (AIM), Depth Upsampling Challenge! (**ECCV 2024** Workshop)
+- **1^{st}** place at ICCV 2023 The ROAD++ Challenge, Spatiotemporal Agent Detection Track! (**ICCV 2023** Workshop)
+- **2^{nd}** place at ICCV 2023 The ROAD++ Challenge, Spatiotemporal road event detection Track! (**ICCV 2023** Workshop)
+- **3^{rd}** place at ICRA 2023 The RoboDepth Challenge, Self-supervised Depth Estimation Track! (**ICRA 2023** Workshop)
+- **1^{st}** Scholarship for Postgraduate Students. 2023.
+- The People's Scholarship in China. 2018-2020.
+- National Second Prize (**Top 1%**), National University IoT Design Competition, Huawei Cup. 2019.
 
 # 📝 Publications
 
