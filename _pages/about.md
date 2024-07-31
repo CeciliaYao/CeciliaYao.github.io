@@ -23,8 +23,12 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 
 <span class='anchor' id='-xl'></span>
 
+# 🔥 News
+- *2024.07*: 🎉🎉 Our placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
+- *2024.07*: 🎉🎉 Our SCAT is accepted by ECCV 2024!
+
 # 💻 Internships
-- *2023.11 - Now*, Embodied AI Research Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
+- *2023.11 - Now*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
 - *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
 - *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/)
 - *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.cn/)
@@ -36,7 +40,7 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 - **3<sup>rd</sup>** place at ICRA 2023 The RoboDepth Challenge, Self-supervised Depth Estimation Track! (**ICRA 2023** Workshop)
 - **1<sup>st</sup>** Scholarship for Postgraduate Students. 2023.
 - The People's Scholarship in China. 2018-2020.
-- National Second Prize (**Top 1%**), National University IoT Design Competition, Huawei Cup. 2019.
+- National Second Prize (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 
 # 📝 Publications
 
