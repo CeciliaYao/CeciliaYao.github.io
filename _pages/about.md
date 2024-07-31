@@ -25,7 +25,7 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 
 # 🔥 News
 - *2024.07*: 🎉🎉 We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
-- *2024.07*: 🎉🎉 Our SCAT is accepted by ECCV 2024!
+- *2024.07*: 🎉🎉 One paper is accepted by ECCV 2024!
 
 # 💻 Internships
 - *2023.11 - Now*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
