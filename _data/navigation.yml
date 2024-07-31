@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About me"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "Internships"
-    url: "/#-gzsx"
+    url: "#-gzsx"
 
   - title: "Honors and Awards"
-    url: "/#-ryjx"
+    url: "#-ryjx"
 
   - title: "Publications"
-    url: "/#-lwzl"
+    url: "#-lwzl"
