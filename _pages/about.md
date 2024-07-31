@@ -24,9 +24,9 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 <span class='anchor' id='-xl'></span>
 
 # 💻 Internships
-- *2023.12 - Now*, Embodied AI Research Intern, Shanghai AI Laboratory
-- *2023.08 - 2023.11*, Computer Vision Intern, Baidu VIS
-- *2023.06 - 2023.08*, Computer Vision Research Intern, Lenovo Research
+- *2023.12 - Now*, Embodied AI Research Intern, [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/)
+- *2023.08 - 2023.11*, Computer Vision Intern,  [<ins>Baidu VIS</ins>](https://vis.baidu.com/#/)
+- *2023.06 - 2023.08*, Computer Vision Research Intern, [<ins>Lenovo Research</ins>](https://research.lenovo.com/)
 - *2022.06 - 2022.10*, Perception Intern, NIO Inc.
 
 # 🏅 Honors and Awards
