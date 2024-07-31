@@ -58,8 +58,8 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024 Under Review</div><img src='images/nips2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
--	**<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
+- **”Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
+-	Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Li.
 - European Conference on Computer Vision (**ECCV**), 2024
 
 </div>
