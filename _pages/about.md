@@ -60,7 +60,7 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 <div class='paper-box-text' markdown="1">
 - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
 -	Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
-- Conference and Workshop on Neural Information Processing Systems (**Neurips Under Review**), 2024
+- Annual Conference on Neural Information Processing Systems (**Neurips Under Review**), 2024
 
 </div>
 </div>
