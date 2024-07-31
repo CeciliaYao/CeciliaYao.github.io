@@ -24,7 +24,7 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 <span class='anchor' id='-xl'></span>
 
 # 🔥 News
-- *2024.07*: 🎉🎉 Our placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
+- *2024.07*: 🎉🎉 We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
 - *2024.07*: 🎉🎉 Our SCAT is accepted by ECCV 2024!
 
 # 💻 Internships
