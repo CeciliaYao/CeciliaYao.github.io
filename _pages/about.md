@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Science at Harbin Institute of Technology (HIT), under the guidance of [Prof. Junjun Jiang](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate). Previously, I earned my B.Eng. Degree in Computer Science from HIT. 
+Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Science at Harbin Institute of Technology (HIT), under the guidance of Prof.[<ins>Junjun Jiang</ins>](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate). Previously, I earned my B.Eng. Degree in Computer Science from HIT. 
 
-Currently, I am interning at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), focusing on Embodied AI (Robotics). Discussions and cooperations are welcomed! (Wechat: debug66yao)
+Currently, I am interning at the [<ins>Shanghai Artificial Intelligence Laboratory</ins>](https://www.shlab.org.cn/), focusing on Embodied AI (Robotics). Discussions and cooperations are welcomed! (Wechat: debug66yao)
 
 <span class='anchor' id='-xl'></span>
 
