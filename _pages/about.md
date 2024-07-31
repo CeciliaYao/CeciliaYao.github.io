@@ -49,8 +49,9 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
--	`Yuanqi Yao`, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. "Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training". **ECCV 2024** 
+- **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
+-	**<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
+- European Conference on Computer Vision (**ECCV**), 2024
 
 </div>
 </div>
