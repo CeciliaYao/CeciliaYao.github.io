@@ -21,7 +21,7 @@ Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Scie
 
 Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)**, particularly lifelong robot learning and robot manipulation. Discussions and cooperations are welcomed! (Wechat: debug66yao)
 
-**NOTE: Actively seeking a 2025 Spring/Fall PhD position. Feel free to reach out anytime!**
+**NOTE: Actively looking for a 2025 Spring/Fall PhD position. Feel free to reach out anytime!**
 
 <span class='anchor' id='-xl'></span>
 
