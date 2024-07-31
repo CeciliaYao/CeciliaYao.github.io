@@ -51,9 +51,9 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 <div class='paper-box-text' markdown="1">
 - **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
   
-**<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
+  **<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
 
-European Conference on Computer Vision (**ECCV**), 2024
+  European Conference on Computer Vision (**ECCV**), 2024
 
 </div>
 </div>
@@ -61,10 +61,10 @@ European Conference on Computer Vision (**ECCV**), 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
-  
-Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
 
-Annual Conference on Neural Information Processing Systems (**NeurIPS**) Under Review, 2024
+  Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
+  
+  Annual Conference on Neural Information Processing Systems (**NeurIPS**) Under Review, 2024
 
 </div>
 </div>
@@ -72,9 +72,9 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS**) Under R
 <div class='paper-box-text' markdown="1">
 - **Teach a Robot to Fish: Skill-Scalable Lifelong Learning for Robot Manipulation**
   
-**<ins>Yuanqi Yao</ins>**, Dong Wang, Siao Liu, Zhigang Wang, Bin Zhao, Xuelong Li.
+  **<ins>Yuanqi Yao</ins>**, Dong Wang, Siao Liu, Zhigang Wang, Bin Zhao, Xuelong Li.
   
-International Conference on Learning Representations (**ICLR**),To be Submitted, 2025
+  International Conference on Learning Representations (**ICLR**),To be Submitted, 2025
 
 </div>
 
