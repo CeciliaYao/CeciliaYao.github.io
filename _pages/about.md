@@ -42,7 +42,7 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 - **3<sup>rd</sup>** place at ICRA 2023 The RoboDepth Challenge, Self-supervised Depth Estimation Track! (**ICRA 2023** Workshop)
 - **1<sup>st</sup>** Scholarship for Postgraduate Students. 2023.
 - The People's Scholarship in China. 2018-2020.
-- National Second Prize (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
+- **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 
 # 📝 Publications
 
