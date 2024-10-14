@@ -44,13 +44,13 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 # 📝 Publications
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review/div><img src='images/overall_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation**
   
   **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
   
- Under Review, 2025
+  Under Review, 2025
   
 </div>
 </div>
@@ -67,12 +67,12 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
 
   Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
 
-  Annual Conference on Neural Information Processing Systems (**NeurIPS**) Under Review, 2024
+  International Conference on Learning Representations (**ICLR**), Under Review, 2024
 
 </div>
