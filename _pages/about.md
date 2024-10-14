@@ -44,6 +44,7 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation**
   
