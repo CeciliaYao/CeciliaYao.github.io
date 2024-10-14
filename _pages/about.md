@@ -44,6 +44,17 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 # 📝 Publications
 
 ---
+<div class='paper-box-text' markdown="1">
+- **Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation**
+  
+  **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
+  
+ Under Review, 2025
+  
+</div>
+</div>
+
+  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
@@ -62,14 +73,5 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
   Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
 
   Annual Conference on Neural Information Processing Systems (**NeurIPS**) Under Review, 2024
-
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
-- **Teach a Robot to Fish: Skill-Scalable Lifelong Learning for Robot Manipulation**
-  
-  **<ins>Yuanqi Yao</ins>**, Dong Wang, Siao Liu, Zhigang Wang, Bin Zhao, Xuelong Li.
-  
-  International Conference on Learning Representations (**ICLR**),To be Submitted, 2025
 
 </div>
