@@ -20,7 +20,9 @@ redirect_from:
 Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Science at Harbin Institute of Technology (HIT), under the guidance of Prof.[<ins>Junjun Jiang</ins>](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate). Previously, I earned my B.Eng. Degree in Computer Science from HIT. 
 
 Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)** and **Computer Vision**, particularly lifelong robot learning. Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
+
 **NOTE: Actively looking for a 2025 Spring/Fall PhD position. Feel free to reach out anytime!**
+
 <span class='anchor' id='-xl'></span>
 # 🔥 News
 - *2024.07*: 🎉🎉 We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
