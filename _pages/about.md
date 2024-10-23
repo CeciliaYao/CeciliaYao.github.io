@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Science at Harbin Institute of Technology (HIT), under the guidance of Prof.[<ins>Junjun Jiang</ins>](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate). Previously, I earned my B.Eng. Degree in Computer Science from HIT. 
 
-Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)** and **Computer Vision**, particularly lifelong learning and open-ended agents. Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
+Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)** and **Computer Vision**, particularly lifelong robot learning. Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
 **NOTE: Actively looking for a 2025 Spring/Fall PhD position. Feel free to reach out anytime!**
 <span class='anchor' id='-xl'></span>
 # 🔥 News
@@ -37,13 +37,14 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 - **1<sup>st</sup>** place at ICCV 2023 The ROAD++ Challenge, Spatiotemporal Agent Detection Track! (**ICCV 2023** Workshop)
 - **2<sup>nd</sup>** place at ICCV 2023 The ROAD++ Challenge, Spatiotemporal road event detection Track! (**ICCV 2023** Workshop)
 - **3<sup>rd</sup>** place at ICRA 2023 The RoboDepth Challenge, Self-supervised Depth Estimation Track! (**ICRA 2023** Workshop)
-- **1<sup>st</sup>** Scholarship for Postgraduate Students. 2023.
+- **1<sup>st</sup>** Scholarship for Postgraduate Students. 2023-2024.
 - The People's Scholarship in China. 2018-2020.
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 
 # 📝 Publications
 
 ---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review/div><img src='images/overall_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation**
@@ -55,7 +56,6 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 </div>
 </div>
 
-  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
