@@ -51,7 +51,7 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
   **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
   
   Under Review, 2025
-  
+
 </div>
 </div>
 
