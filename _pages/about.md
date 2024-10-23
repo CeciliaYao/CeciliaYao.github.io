@@ -44,7 +44,6 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 # 📝 Publications
 
 ---
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review/div><img src='images/overall_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Think Small, Act Big: Primitive-level Skill Prompt Learning for Lifelong Robot Manipulation**
@@ -74,5 +73,3 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
   Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
 
   International Conference on Learning Representations (**ICLR**), Under Review, 2024
-
-</div>
