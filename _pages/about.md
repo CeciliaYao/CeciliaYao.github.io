@@ -19,7 +19,7 @@ Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Scie
 Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)** and **Computer Vision**, particularly lifelong robot learning. Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
 <span class='anchor' id='-xl'></span>
 # 🔥 News
-- *2025.01*: 🔥 Our paper SpatialVLA released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))
+- *2025.01*: 🔥 Our paper SpatialVLA released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
 - *2024.07*: We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
 - *2024.07*: 🎉🎉 One paper is accepted by ECCV 2024!
 # 💻 Internships
@@ -37,6 +37,16 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 # 📝 Publications
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overall_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
+
+  Delin Qu, Haoming Song, Qizhi Chen, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
+  
+  Under Review, 2025
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overall_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**
