@@ -16,7 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Science at Harbin Institute of Technology (HIT), under the guidance of Prof.[<ins>Junjun Jiang</ins>](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate). Previously, I earned my B.Eng. Degree in Computer Science from HIT. 
-Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)** and **Computer Vision**, particularly lifelong robot learning. Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
+Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)** and **Computer Vision**, particularly lifelong robot learning. 
+Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
 <span class='anchor' id='-xl'></span>
 # 🔥 News
 - *2025.01*: 🔥🔥 Our paper **SpatialVLA** released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
