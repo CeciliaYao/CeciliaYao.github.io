@@ -37,53 +37,52 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 - The People's Scholarship in China. 2018-2020.
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 # 📝 Publications
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-  - **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
-
-    Delin Qu, Haoming Song, Qizhi Chen, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
   
+    - **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
+  
+      Delin Qu, Haoming Song, Qizhi Chen, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
+    
+      Under Review, 2025
+  </div>
+  </div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ppl.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  - **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**
+    
+    **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
+    
     Under Review, 2025
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ppl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**
+  </div>
+  </div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+    
+  - **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
+    
+    **<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
+    
+    ECCV 2024
+  </div>
+  </div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+    
+  - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
   
-  **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
+    Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
+    
+    Under Review, 2024
+  </div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mllmguard.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+    
+  - **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**
   
-  Under Review, 2025
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
-  
-  **<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
-  
-  ECCV 2024
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
-
-  Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
-  
-  Under Review, 2024
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mllmguard.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**
-
-  Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins>Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
-  
-  NeurIPS 2024
-</div>
+    Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins>Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
+    
+    NeurIPS 2024
+  </div>
 <span class='anchor' id='-xshy'></span>
