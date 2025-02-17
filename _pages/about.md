@@ -65,7 +65,7 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
   
   **<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
   
-  European Conference on Computer Vision (**ECCV**), 2024
+  ECCV 2024
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
@@ -77,13 +77,13 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
   
   Under Review, 2024
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mllmguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mllmguard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**
 
   Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins>Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
   
-  Conference on Neural Information Processing Systems (**NeurIPS**), 2024
+  NeurIPS 2024
 </div>
 <span class='anchor' id='-xshy'></span>
