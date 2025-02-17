@@ -42,12 +42,12 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 
   - **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
 
-  Delin Qu, Haoming Song, Qizhi Chen, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
+    Delin Qu, Haoming Song, Qizhi Chen, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
   
-  Under Review, 2025
+    Under Review, 2025
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overall_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ppl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**
