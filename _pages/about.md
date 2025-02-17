@@ -37,18 +37,19 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 # 📝 Publications
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overall_fig.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
+
+  - **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
 
   Delin Qu, Haoming Song, Qizhi Chen, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
   
   Under Review, 2025
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/overall_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 - **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**
   
   **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
@@ -58,15 +59,21 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 - **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
+  
   **<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
+  
   European Conference on Computer Vision (**ECCV**), 2024
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
+
   Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
-  International Conference on Learning Representations (**ICLR**), Under Review, 2024
+  
+  Under Review, 2024
 </div>
 <span class='anchor' id='-xshy'></span>
