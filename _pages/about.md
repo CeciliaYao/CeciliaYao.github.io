@@ -19,7 +19,8 @@ Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Scie
 Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)** and **Computer Vision**, particularly lifelong robot learning. Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
 <span class='anchor' id='-xl'></span>
 # 🔥 News
-- *2025.01*: 🔥 Our paper SpatialVLA released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
+- *2025.01*: 🔥🔥 Our paper **SpatialVLA** released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
+- *2024.09*: 🎉🎉 One paper is accepted by NeurIPS 2024!
 - *2024.07*: We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
 - *2024.07*: 🎉🎉 One paper is accepted by ECCV 2024!
 # 💻 Internships
@@ -75,5 +76,14 @@ Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www
   Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
   
   Under Review, 2024
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mllmguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+- **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**
+
+  Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins>Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
+  
+  Conference on Neural Information Processing Systems (**NeurIPS**), 2024
 </div>
 <span class='anchor' id='-xshy'></span>
