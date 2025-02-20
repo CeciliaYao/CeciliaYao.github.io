@@ -107,3 +107,62 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/ 增加页面主容器宽度
+.page {
+  width: 100%;
+  padding-right: 0;
+  
+  @include breakpoint($large) {
+    width: 100%;
+    padding-right: 0;
+  }
+}
+
+// 调整内容区域宽度
+.page__content {
+  @include breakpoint($large) {
+    width: 100%;
+    padding-right: 0;
+  }
+}
+
+// 增加整体宽度
+.wide {
+  .page {
+    @include breakpoint($large) {
+      padding-right: 0;
+    }
+  }
+}
+
+// 修改字体大小
+html {
+  font-size: 18px; // 默认可能是 16px
+  
+  @include breakpoint($medium) {
+    font-size: 20px;
+  }
+}
+
+// 调整文章内容字体大小
+.page__content {
+  p, li {
+    font-size: 1em;
+  }
+  
+  h1 { font-size: 2em; }
+  h2 { font-size: 1.8em; }
+  h3 { font-size: 1.6em; }
+}
+
+// 调整导航栏和页眉字体
+.masthead__menu-item, .site-title {
+  font-size: 1.1em;
+}
+
+// 调整边栏宽度和位置
+.sidebar {
+  @include breakpoint($large) {
+    width: calc(200px - 1em);
+  }
