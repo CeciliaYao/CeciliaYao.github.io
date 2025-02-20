@@ -12,11 +12,6 @@
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
-$doc-font-size: 26px;        // 增大基础字体
-$type-size-1: 2.5em;         // 标题字体
-$type-size-2: 2em;
-$type-size-3: 1.75em;
-$max-width: 2000px;          // 增加页面最大宽度
 
 @import "mixins";
 @import "vendor/susy/susy";
