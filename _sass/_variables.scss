@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-   $doc-font-size              : 30; // origin: 14
+   $doc-font-size              : 35; // origin: 14
 
    /* paragraph indention */
    $paragraph-indent           : false; // true, false (default)
@@ -36,10 +36,14 @@
    $caption-font-family        : $serif;
    
    /* type scale */
-   $type-size-1                : 2.441em;  // ~39.056px
-   $type-size-2                : 1.953em;  // ~31.248px
-   $type-size-3                : 1.4em;  // ~25.008px
-   $type-size-4                : 1.2em;   // ~20px
+   // $type-size-1                : 2.441em;  // ~39.056px
+   // $type-size-2                : 1.953em;  // ~31.248px
+   // $type-size-3                : 1.4em;  // ~25.008px
+   // $type-size-4                : 1.2em;   // ~20px
+   $type-size-1                : 2.9em;    // 原来是 2.441em
+   $type-size-2                : 2.4em;    // 原来是 1.953em
+   $type-size-3                : 1.7em;    // 原来是 1.4em
+   $type-size-4                : 1.6em;    // 原来是 1.2em
    $type-size-5                : 1em;      // ~16px
    $type-size-6                : 1em;   // ~12px
    $type-size-7                : 0.6875em; // ~11px
@@ -125,7 +129,7 @@
    $small                      : 600px !default;
    $medium                     : 1000px !default;
    $medium-wide                : 1000px !default;
-   $large                      : 1800px !default;
+   $large                      : 1600px !default;
    $x-large                    : 2200px !default;
    
    /*
