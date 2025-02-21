@@ -1,4 +1,4 @@
----
+ ---
 ---
 
 /*
@@ -39,6 +39,12 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+body {
+  transform: scale(1.4) !important;
+  transform-origin: top left !important;
+  width: calc(100% / 1.4) !important;
+}
 
 .paper-box {
     display: flex;
