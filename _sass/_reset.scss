@@ -8,7 +8,7 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 16px; // 基础字体大小
+  font-size: 20px; // 基础字体大小
   @include breakpoint($medium) {
     font-size: 18px; // 中等屏幕上的字体大小
   }
