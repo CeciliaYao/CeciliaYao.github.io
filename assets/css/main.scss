@@ -48,7 +48,7 @@ html {
 @-moz-document url-prefix() {
   html {
     transform: scale(1.2);
-    transform-origin: top left;
+    // transform-origin: top left;
   }
 }
 
