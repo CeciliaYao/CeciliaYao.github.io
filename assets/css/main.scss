@@ -40,10 +40,16 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-body {
-  transform: scale(1.4) !important;
-  transform-origin: top left !important;
-  width: calc(100% / 1.4) !important;
+html {
+  zoom: 1.2 !important;
+}
+
+// 为 Firefox 提供支持
+@-moz-document url-prefix() {
+  html {
+    transform: scale(1.2);
+    transform-origin: top left;
+  }
 }
 
 .paper-box {
