@@ -8,9 +8,9 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 20px; // 基础字体大小
+  font-size: 30px; // 基础字体大小 //origin 20
   @include breakpoint($medium) {
-    font-size: 18px; // 中等屏幕上的字体大小
+    font-size: 22px; // 中等屏幕上的字体大小 //origin 18
   }
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
