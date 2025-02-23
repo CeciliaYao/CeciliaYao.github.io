@@ -15,9 +15,12 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
-Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student in Computer Science at Harbin Institute of Technology (HIT), under the guidance of Prof.[<ins>Junjun Jiang</ins>](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate). Previously, I earned my B.Eng. Degree in Computer Science from HIT. 
-Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/) focusing on **Embodied AI (Robotics)** and **Computer Vision**, particularly lifelong robot learning. 
-Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
+Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student at Harbin Institute of Technology (HIT), where I also completed my B.Eng. degree in Computer Science, advised by Prof.[<ins>Junjun Jiang</ins>](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate).
+Currently, I am interning at the [<ins>Shanghai AI Laboratory</ins>](https://www.shlab.org.cn/), supervised by [Dr.Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN) and [Prof.Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN). 
+
+My research focuses on Embodied AI, particularly VLA and robotic foundation models.
+**<font color="Blue">Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)</font>**
+
 <span class='anchor' id='-xl'></span>
 # 🔥 News
 - *2025.01*: 🔥🔥 Our paper **SpatialVLA** released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
@@ -43,7 +46,7 @@ Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
   
     - **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
   
-      Delin Qu, Haoming Song, Qizhi Chen, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
+      Delin Qu*, Haoming Song*, Qizhi Chen*, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
     
       Under Review, 2025
   </div>
@@ -73,7 +76,7 @@ Welcome to discuss and collaborate! (<ins>WeChat: debug66yao</ins>)
     
   - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
   
-    Youyu Chen, Junjun Jiang*, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
+    Youyu Chen, Junjun Jiang, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
     
     Under Review, 2024
   </div>
