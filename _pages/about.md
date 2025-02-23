@@ -46,7 +46,7 @@ My research focuses on Embodied AI, particularly VLA and robotic foundation mode
   
     - **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
   
-      Delin Qu*, Haoming Song*, Qizhi Chen*, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
+      Delin Qu\*, Haoming Song\*, Qizhi Chen\*, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
     
       Under Review, 2025
   </div>
