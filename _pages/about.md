@@ -36,10 +36,10 @@ My research focuses on Embodied AI, particularly VLA and robotic foundation mode
 - *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.cn/)
 
 # Honors and Awards
-- **2<sup>nd</sup>** place at ECCV 2024 Advances in Image Manipulation (AIM), Depth Upsampling Challenge! (**ECCV 2024** Workshop)
-- **1<sup>st</sup>** place at ICCV 2023 The ROAD++ Challenge, Spatiotemporal Agent Detection Track! (**ICCV 2023** Workshop)
-- **2<sup>nd</sup>** place at ICCV 2023 The ROAD++ Challenge, Spatiotemporal road event detection Track! (**ICCV 2023** Workshop)
-- **3<sup>rd</sup>** place at ICRA 2023 The RoboDepth Challenge, Self-supervised Depth Estimation Track! (**ICRA 2023** Workshop)
+- **2<sup>nd</sup>** place at ECCV 2024 AIM, Depth Upsampling Challenge (**ECCV 2024** Workshop)
+- **1<sup>st</sup>** place at ICCV 2023 The ROAD++ Challenge, Agent Detection Track (**ICCV 2023** Workshop)
+- **2<sup>nd</sup>** place at ICCV 2023 The ROAD++ Challenge, Road event detection Track (**ICCV 2023** Workshop)
+- **3<sup>rd</sup>** place at ICRA 2023 The RoboDepth Challenge (**ICRA 2023** Workshop)
 - **1<sup>st</sup>** Scholarship for Postgraduate Students. 2023-2024.
 - The People's Scholarship in China. 2018-2020.
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
