@@ -28,11 +28,13 @@ My research focuses on Embodied AI, particularly VLA and robotic foundation mode
 - *2024.09*: One paper is accepted by NeurIPS 2024!
 - *2024.07*: We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
 - *2024.07*: One paper is accepted by ECCV 2024!
+  
 # Internships
 - *2023.11 - Now*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
 - *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
 - *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/)
 - *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.cn/)
+
 # Honors and Awards
 - **2<sup>nd</sup>** place at ECCV 2024 Advances in Image Manipulation (AIM), Depth Upsampling Challenge! (**ECCV 2024** Workshop)
 - **1<sup>st</sup>** place at ICCV 2023 The ROAD++ Challenge, Spatiotemporal Agent Detection Track! (**ICCV 2023** Workshop)
@@ -41,6 +43,7 @@ My research focuses on Embodied AI, particularly VLA and robotic foundation mode
 - **1<sup>st</sup>** Scholarship for Postgraduate Students. 2023-2024.
 - The People's Scholarship in China. 2018-2020.
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
+
 # Publications
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
