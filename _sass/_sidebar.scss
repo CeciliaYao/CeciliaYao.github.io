@@ -82,7 +82,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 500px; // 75
+  width: 300px; // 75
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -93,8 +93,8 @@
   }
 
   img {
-    max-width: 500px; //150
-    min-width: 400px; //75
+    max-width: 300px; //150
+    min-width: 200px; //75
     // width: 100%; // 确保图片填充容器
     // height: auto; // 高度自动，以保持原始比例
     // aspect-ratio: 4/3; // 明确设置4:3的长宽比 
