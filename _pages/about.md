@@ -45,7 +45,6 @@ My research focuses on Embodied AI, particularly VLA and robotic foundation mode
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 
 # Publications
-
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
