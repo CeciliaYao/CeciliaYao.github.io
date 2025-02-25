@@ -61,8 +61,16 @@
    // $body-color                 : #fff;
    // $background-color           : #fff;
    // $background-color           : linear-gradient(to right, #282a36, #bd93f9);
-   $body-color                 : linear-gradient(to right, #1e1228, #412a5d);
-   $background-color           : linear-gradient(to right, #1e1228, #412a5d);
+   $body-color                 : linear-gradient(to right, 
+  #150a1f, /* 左侧最深色，加入红色调 */
+  #2a1835, /* 中间过渡色，带红紫色调 */
+  #3a2554  /* 右侧色，比原来更深，带红紫色调 */
+);
+   $background-color           : linear-gradient(to right, 
+  #150a1f, /* 左侧最深色，加入红色调 */
+  #2a1835, /* 中间过渡色，带红紫色调 */
+  #3a2554  /* 右侧色，比原来更深，带红紫色调 */
+);
    $code-background-color      : #EDEDEB;
    // $code-text-color           : #E65555;
    $code-text-color           : #f8f8f2;
