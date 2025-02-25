@@ -56,9 +56,11 @@
    $light-gray                 : mix(#fff, $gray, 50%);
    $lighter-gray               : mix(#fff, $gray, 90%);
    
-   $body-color                 : #fff;
+   // $body-color                 : #fff;
    // $background-color           : #fff;
-   $background-color           : linear-gradient(to right, #282a36, #bd93f9);
+   // $background-color           : linear-gradient(to right, #282a36, #bd93f9);
+   $body-color                 : linear-gradient(to right, #282a36, #44475a);
+   $background-color           : linear-gradient(to right, #282a36, #44475a);
    $code-background-color      : #EDEDEB;
    $code-text-color           : #E65555;
    $code-background-color-dark : $light-gray;
