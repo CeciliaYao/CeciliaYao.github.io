@@ -68,7 +68,8 @@
    $code-text-color           : #f8f8f2;
    $code-background-color-dark : $light-gray;
    // $text-color                 : $dark-gray;
-   $text-color                 : #f8f8f2;
+   // $text-color                 : #f8f8f2; //白色
+   $text-color                 : #f2f0e4; // 带奶黄色调的温暖白：
    // $border-color               : $lighter-gray;
    $border-color               : transparent;
    
@@ -103,9 +104,12 @@
    
    
    /* links */
-   $link-color                 : $info-color;
-   $link-color-hover           : mix(#000, $link-color, 25%);
-   $link-color-visited         : mix(#fff, $link-color, 25%);
+   // $link-color                 : $info-color;
+   // $link-color-hover           : mix(#000, $link-color, 25%);
+   // $link-color-visited         : mix(#fff, $link-color, 25%);
+   $link-color                 : #bd93f9; /* 亮紫色 */
+   $link-color-hover           : #ff79c6; /* 悬停时变为亮粉色 */
+   $link-color-visited         : #9580bf; /* 访问后变为较浅的紫色 */
    $masthead-link-color        : $primary-color;
    $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
    
