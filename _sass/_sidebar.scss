@@ -94,7 +94,9 @@
   img {
     max-width: 500px; //150
     min-width: 400px; //75
-    aspect-ratio: 4/3; // 明确设置4:3的长宽比 
+    // width: 100%; // 确保图片填充容器
+    // height: auto; // 高度自动，以保持原始比例
+    // aspect-ratio: 4/3; // 明确设置4:3的长宽比 
     border-radius: 0; /* 将圆形改为方形 */
     // border-radius: 50%;
      
