@@ -59,12 +59,14 @@
    // $body-color                 : #fff;
    // $background-color           : #fff;
    // $background-color           : linear-gradient(to right, #282a36, #bd93f9);
-   $body-color                 : linear-gradient(to right, #282a36, #44475a);
-   $background-color           : linear-gradient(to right, #282a36, #44475a);
+   $body-color                 : linear-gradient(to right, #282a36, #6272a4);
+   $background-color           : linear-gradient(to right, #282a36, #6272a4);
    $code-background-color      : #EDEDEB;
-   $code-text-color           : #E65555;
+   // $code-text-color           : #E65555;
+   $code-text-color           : #f8f8f2;
    $code-background-color-dark : $light-gray;
-   $text-color                 : $dark-gray;
+   // $text-color                 : $dark-gray;
+   $text-color                 : #f8f8f2;
    $border-color               : $lighter-gray;
    
    $primary-color              : #7a8288;
