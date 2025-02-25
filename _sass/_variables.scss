@@ -13,8 +13,10 @@
    $indent-var                 : 0.5em;
    
    /* system typefaces */
-   $serif                      :  "Trebuchet MS",sans-serif; // Georgia, Times, sans-serif;
-   $sans-serif                 : "Trebuchet MS", Helvetica,"Source Han Sans", "Microsoft YaHei", sans-serif;
+   // $serif                      :  "Trebuchet MS",sans-serif; // Georgia, Times, sans-serif;
+   // $sans-serif                 : "Trebuchet MS", Helvetica,"Source Han Sans", "Microsoft YaHei", sans-serif;
+   $serif                      :  Georgia, Times, serif; // 改为Georgia为第一字体
+   $sans-serif                 :  Georgia, Helvetica, serif; // 改为Georgia为第一字体
    // $sans-serif                 : Georgia, serif, sans-serif;
    
    // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
