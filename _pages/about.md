@@ -24,6 +24,7 @@ My research focuses on Embodied AI, particularly VLA and robotic foundation mode
 
 <span class='anchor' id='-xl'></span>
 # News
+- *2024.03*: One paper is accepted by CVPR 2025!
 - *2025.01*: Our paper **SpatialVLA** released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
 - *2024.09*: One paper is accepted by NeurIPS 2024!
 - *2024.07*: We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
@@ -55,14 +56,14 @@ My research focuses on Embodied AI, particularly VLA and robotic foundation mode
       Under Review, 2025
   </div>
   </div>
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ppl.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ppl.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   - **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**
     
     **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
     
-    Under Review, 2025
+    CVPR 2025
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
