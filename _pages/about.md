@@ -19,8 +19,7 @@ redirect_from:
 Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student at [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), where I also completed my B.Eng. degree in Computer Science, advised by Prof.[Junjun Jiang](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate).
 Currently, I am interning at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Dr.Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN) and [Prof.Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN). 
 
-My research focuses on Embodied AI, particularly VLA and robotic foundation models.
-**<font color="#ff79c6">Welcome to discuss and collaborate! (WeChat: debug66yao)</font>**
+My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and robotic foundation models.</font>** Welcome to discuss and collaborate!
 
 <span class='anchor' id='-xl'></span>
 # News
