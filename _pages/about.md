@@ -23,7 +23,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 
 <span class='anchor' id='-xl'></span>
 # News
-- *2024.03*: One paper is accepted by CVPR 2025!
+- *2025.03*: One paper is accepted by CVPR 2025!
 - *2025.01*: Our paper **SpatialVLA** released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
 - *2024.09*: One paper is accepted by NeurIPS 2024!
 - *2024.07*: We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
