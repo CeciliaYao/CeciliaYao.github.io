@@ -53,7 +53,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
       Delin Qu\*, Haoming Song\*, Qizhi Chen\*, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
     
-      RSS 2025 \| [paper](https://arxiv.org/abs/2501.15830) \| [page](https://spatialvla.github.io/)
+      RSS 2025 \| [paper](https://arxiv.org/abs/2501.15830) \| [project page](https://spatialvla.github.io/)
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ppl.png' alt="sym" width="100%"></div></div>
@@ -63,7 +63,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     
     **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
     
-    CVPR 2025 \| [paper](https://arxiv.org/abs/2504.00420) \| [page](https://arxiv.org/abs/2504.00420)
+    CVPR 2025 \| [paper](https://arxiv.org/abs/2504.00420) \| [project page](https://arxiv.org/abs/2504.00420)
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
@@ -73,7 +73,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     
     **<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
     
-    ECCV 2024 \| [paper](https://arxiv.org/abs/2411.02149) \| [page](https://arxiv.org/abs/2411.02149)
+    ECCV 2024 \| [paper](https://arxiv.org/abs/2411.02149) \| [project page](https://arxiv.org/abs/2411.02149)
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
@@ -93,7 +93,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
     Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins>Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
     
-    NeurIPS 2024 \| [paper](https://arxiv.org/abs/2406.07594) \| [page](https://github.com/AI45Lab/MLLMGuard)
+    NeurIPS 2024 \| [paper](https://arxiv.org/abs/2406.07594) \| [project page](https://github.com/AI45Lab/MLLMGuard)
   </div>
   </div>
 <span class='anchor' id='-xshy'></span>
