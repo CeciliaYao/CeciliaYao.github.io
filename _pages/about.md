@@ -98,9 +98,9 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   </div>
   
 # Furry Family
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: -30px;">
   <figure style="text-align: center; width: 270px;">
-    <img src="https://p.sda1.dev/24/9bca91f30ac7ce09c7ec1fe9bae96807/Toby.jpg" alt="My dog Toby" style="height: 400px; width: auto; max-width: 100%; margin-top: -30px;"/>
+    <img src="https://p.sda1.dev/24/9bca91f30ac7ce09c7ec1fe9bae96807/Toby.jpg" alt="My dog Toby" style="height: 400px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Toby</strong><br/>
       <em>2009 – 2023</em><br/>
