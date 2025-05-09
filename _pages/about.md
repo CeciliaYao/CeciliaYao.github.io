@@ -112,7 +112,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     <img src="https://p.sda1.dev/24/9bca91f30ac7ce09c7ec1fe9bae96807/Toby.jpg" alt="My dog Toby" style="height: 400px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Toby</strong><br/>
-      <em>2009 – 2023</em><br/>
+      <em>2011 – 2024</em><br/>
       A lively, loving boy who stayed with me through every stage of life.
     </figcaption>
   </figure>
