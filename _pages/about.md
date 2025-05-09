@@ -46,7 +46,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 
 # Publications
-  <div class='paper-box' style="margin-top: -10px;"><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' style="margin-top: -30px;"><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   - **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
@@ -111,7 +111,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     <img src="images/Hz.jpg" alt="My cat Hz" style="height: 400px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Hz</strong><br/>
-      <em>Born in 2022</em><br/>
+      <em>2023 - </em><br/>
       A clingy girl with stunning blue eyes who loves to lick me.
     </figcaption>
   </figure>
@@ -119,7 +119,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     <img src="images/HuHu.jpg" alt="My cat HuHu" style="height: 4-0px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>HuHu</strong><br/>
-      <em>Born in 2023</em><br/>
+      <em>2023 - </em><br/>
       A smart and talkative girl with big round eyes and a curious spirit.
     </figcaption>
   </figure>
