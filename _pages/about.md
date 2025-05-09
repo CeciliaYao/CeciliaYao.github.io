@@ -103,21 +103,24 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     <img src="images/Toby.jpg" alt="My dog Toby" style="height: 200px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Toby</strong><br/>
-      Our goofy and gentle dog who loves belly rubs.
+      <em>2011 – 2024</em><br/>
+      A handsome, energetic boy who stayed by my side from elementary school through grad school.
     </figcaption>
   </figure>
   <figure style="text-align: center;">
     <img src="images/Hz.jpg" alt="My cat Hz" style="height: 200px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Hz</strong><br/>
-      A clever and quiet cat who observes everything.
+      <em>2023 - </em><br/>
+      A clingy little girl with stunning blue eyes, always licking me to show love.
     </figcaption>
   </figure>
   <figure style="text-align: center;">
     <img src="images/HuHu.jpg" alt="My cat HuHu" style="height: 200px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>HuHu</strong><br/>
-      The cuddliest nap expert in the house.
+      <em>2023 - </em><br/>
+      A smart and talkative girl, full of energy, with big round eyes that are always curious.
     </figcaption>
   </figure>
 </div>
