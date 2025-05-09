@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuanqi Yao"
-  avatar           : "images/yyq_new.JPG"
+  avatar           : "https://p.sda1.dev/24/c7ec995f03ef1ddf459d6043ac368e39/yyq_new.JPG"
   bio              : "Harbin Institute of Technology"
   # location         : "Shanghai, China"
   employer         : #"Hefei General Machinery Research Institute"
