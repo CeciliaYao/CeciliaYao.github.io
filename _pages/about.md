@@ -104,7 +104,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   </div>
   </div>
 
-<span class='anchor' id='-meow-and-wood'></span>
+<span class='anchor' id='-meow-and-woof'></span>
 
 # Meow & Woof
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: -30px;">
