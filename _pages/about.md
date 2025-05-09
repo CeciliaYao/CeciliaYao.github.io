@@ -99,28 +99,28 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
 # Furry Family
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <figure style="text-align: center; width: 255px;">
-    <img src="images/Toby.jpg" alt="My dog Toby" style="height: 380px; width: auto; max-width: 100%;"/>
+  <figure style="text-align: center; width: 270px;">
+    <img src="https://p.sda1.dev/24/9bca91f30ac7ce09c7ec1fe9bae96807/Toby.jpg" alt="My dog Toby" style="height: 400px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Toby</strong><br/>
       <em>2009 – 2023</em><br/>
-      A handsome, energetic boy who stayed by my side from elementary school through grad school.
+      A handsome, energetic boy who grew up with me.
     </figcaption>
   </figure>
-  <figure style="text-align: center; width: 255px;">
-    <img src="images/Hz.jpg" alt="My cat Hz" style="height: 380px; width: auto; max-width: 100%;"/>
+  <figure style="text-align: center; width: 270px;">
+    <img src="images/Hz.jpg" alt="My cat Hz" style="height: 400px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Hz</strong><br/>
       <em>Born in 2022</em><br/>
-      A clingy little girl with stunning blue eyes who loves to lick me.
+      A clingy girl with stunning blue eyes who loves to lick me.
     </figcaption>
   </figure>
-  <figure style="text-align: center; width: 255px;">
-    <img src="images/HuHu.jpg" alt="My cat HuHu" style="height: 380px; width: auto; max-width: 100%;"/>
+  <figure style="text-align: center; width: 270px;">
+    <img src="images/HuHu.jpg" alt="My cat HuHu" style="height: 4-0px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>HuHu</strong><br/>
       <em>Born in 2023</em><br/>
-      A smart, talkative, and energetic girl with big round eyes and a curious spirit.
+      A smart and talkative girl with big round eyes and a curious spirit.
     </figcaption>
   </figure>
 </div>
