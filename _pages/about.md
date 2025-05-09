@@ -96,4 +96,20 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     NeurIPS 2024 \| [paper](https://arxiv.org/abs/2406.07594) \| [project page](https://github.com/AI45Lab/MLLMGuard)
   </div>
   </div>
+  
+# Furry Family
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="text-align: center;">
+    <img src="images/Toby.jpg" alt="My dog Toby" width="200"/>
+    <figcaption>Toby</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="images/Hz.jpg" alt="My cat Hz" width="200"/>
+    <figcaption>Hz</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="images/HuHu.jpg" alt="My cat HuHu" width="200"/>
+    <figcaption>HuHu</figcaption>
+  </figure>
+</div>
 <span class='anchor' id='-xshy'></span>
