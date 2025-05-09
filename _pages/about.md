@@ -99,28 +99,28 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
 # Furry Family
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <figure style="text-align: center;">
+  <figure style="text-align: center; width: 255px;">
     <img src="images/Toby.jpg" alt="My dog Toby" style="height: 380px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Toby</strong><br/>
-      <em>2011 – 2024</em><br/>
+      <em>2009 – 2023</em><br/>
       A handsome, energetic boy who stayed by my side from elementary school through grad school.
     </figcaption>
   </figure>
-  <figure style="text-align: center;">
+  <figure style="text-align: center; width: 255px;">
     <img src="images/Hz.jpg" alt="My cat Hz" style="height: 380px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>Hz</strong><br/>
-      <em>2023 - </em><br/>
-      A clingy little girl with stunning blue eyes, always licking me to show love.
+      <em>Born in 2022</em><br/>
+      A clingy little girl with stunning blue eyes who loves to lick me.
     </figcaption>
   </figure>
-  <figure style="text-align: center;">
+  <figure style="text-align: center; width: 255px;">
     <img src="images/HuHu.jpg" alt="My cat HuHu" style="height: 380px; width: auto; max-width: 100%;"/>
     <figcaption>
       <strong>HuHu</strong><br/>
-      <em>2023 - </em><br/>
-      A smart and talkative girl, full of energy, with big round eyes that are always curious.
+      <em>Born in 2023</em><br/>
+      A smart, talkative, and energetic girl with big round eyes and a curious spirit.
     </figcaption>
   </figure>
 </div>
