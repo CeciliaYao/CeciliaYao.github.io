@@ -14,7 +14,9 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
+
 # About Me
 Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student at [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), where I also completed my B.Eng. degree in Computer Science, advised by Prof.[Junjun Jiang](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate).
 Currently, I am interning at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Dr.Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN) and [Prof.Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN). 
@@ -30,6 +32,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 - *2024.07*: One paper is accepted by ECCV 2024!
 
 <span class='anchor' id='-internships'></span>
+
 # Internships
 - *2023.11 - Now*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
 - *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
@@ -37,6 +40,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 - *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.cn/)
 
 <span class='anchor' id='-honors-and-awards'></span>
+
 # Honors and Awards
 - **2<sup>nd</sup>** place at ECCV 2024 AIM, Depth Upsampling Challenge (**ECCV 2024** Workshop)
 - **1<sup>st</sup>** place at ICCV 2023 The ROAD++ Challenge, Agent Detection Track (**ICCV 2023** Workshop)
@@ -47,6 +51,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 - **National Second Prize** (**Top 1%**), National University IoT Design Competition, **Huawei Cup**. 2019.
 
 <span class='anchor' id='-publications'></span>
+
 # Publications
   <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -100,6 +105,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   </div>
 
 <span class='anchor' id='-furry-family'></span>
+
 # Furry Family
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: -30px;">
   <figure style="text-align: center; width: 270px;">
