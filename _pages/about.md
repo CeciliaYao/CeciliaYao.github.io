@@ -104,7 +104,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     <figcaption>
       <strong>Toby</strong><br/>
       <em>2009 – 2023</em><br/>
-      A handsome, energetic boy who grew up with me.
+      A lively, loving boy who stayed with me through every stage of life.
     </figcaption>
   </figure>
   <figure style="text-align: center; width: 270px;">
