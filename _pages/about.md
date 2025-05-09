@@ -100,15 +100,15 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 # Furry Family
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center;">
-    <img src="images/Toby.jpg" alt="My dog Toby" width="200"/>
+    <img src="images/Toby.jpg" alt="My dog Toby" height="400"/>
     <figcaption>Toby</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="images/Hz.jpg" alt="My cat Hz" width="200"/>
+    <img src="images/Hz.jpg" alt="My cat Hz" height="400"/>
     <figcaption>Hz</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="images/HuHu.jpg" alt="My cat HuHu" width="200"/>
+    <img src="images/HuHu.jpg" alt="My cat HuHu" height="400"/>
     <figcaption>HuHu</figcaption>
   </figure>
 </div>
