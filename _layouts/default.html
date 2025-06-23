@@ -30,15 +30,16 @@ layout: compress
     {% include scripts.html %}
     <style>
       #clustrmaps-container {
-        width: 50%; /* 使容器宽度自动调整 */
+        width: 50%; /* 设置容器宽度为 50% */
         max-width: 600px; /* 设置最大宽度 */
         height: 400px; /* 设置固定高度 */
+        margin: 0 auto; /* 左右居中 */
       }
     </style>
-
-<div id="clustrmaps-container">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5cAE0lZUKEbZI7WqPBGKhZHEZwBgRJcLVslJW-FNv3w&cl=ffffff&w=a"></script>
-</div>
+  
+  <div id="clustrmaps-container">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5cAE0lZUKEbZI7WqPBGKhZHEZwBgRJcLVslJW-FNv3w&cl=ffffff&w=a"></script>
+  </div>
 
 <div class="footer_site">
 <hr/>
