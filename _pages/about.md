@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a graduate student at [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), where I also completed my B.Eng. degree in Computer Science, advised by Prof.[Junjun Jiang](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate).
-Currently, I am interning at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), supervised by [Dr.Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN) and [Prof.Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN). 
+Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), an incoming Ph.D. student at [INSAIT](https://insait.ai/), under the supervision of [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/) and [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/). Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I was supervised by [Dr. Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN).  I also earned both my Bachelor's and Master's degrees in Computer Science at [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), where I was advised by [Prof. Junjun Jiang](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and robotic foundation models.</font>** Welcome to discuss and collaborate!
 
 # News
+- *2025.06*: One paper is accepted by IROS 2025!
 - *2025.04*: One paper is accepted by RSS 2025!
 - *2025.03*: One paper is accepted by CVPR 2025!
 - *2025.01*: Our paper **SpatialVLA** released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
@@ -34,7 +34,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 <span class='anchor' id='-internships'></span>
 
 # Internships
-- *2023.11 - Now*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
+- *2023.11 - 2025.07, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
 - *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
 - *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/)
 - *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.cn/)
@@ -53,10 +53,20 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 <span class='anchor' id='-publications'></span>
 
 # Publications
+  <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/fuse.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  - **FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**
+  
+      Pihai Sun, Junjun Jiang, **<ins>Yuanqi Yao</ins>**, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu.
+    
+      IROS 2025 \| [paper](https://arxiv.org/abs/2503.19739) \| [project page](https://arxiv.org/abs/2503.19739)
+  </div>
+  </div>
   <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
-  - **SpatialVLA Exploring Spatial Representations for Visual-Language-Action Models**
+  - **SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models**
   
       Delin Qu\*, Haoming Song\*, Qizhi Chen\*, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
     
