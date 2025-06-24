@@ -63,7 +63,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
       IROS 2025 \| [paper](https://arxiv.org/abs/2503.19739) \| [project page](https://arxiv.org/abs/2503.19739)
   </div>
   </div>
-  <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   - **SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models**
