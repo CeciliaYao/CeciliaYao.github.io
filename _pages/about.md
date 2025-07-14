@@ -70,7 +70,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
       Delin Qu\*, Haoming Song\*, Qizhi Chen\*, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
     
-      RSS 2025 \| [paper](https://arxiv.org/abs/2501.15830) \| [project page](https://spatialvla.github.io/)
+      **<font color="#ff79c6">RSS 2025</font>** \| [paper](https://arxiv.org/abs/2501.15830) \| [project page](https://spatialvla.github.io/)
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ppl.png' alt="sym" width="100%"></div></div>
