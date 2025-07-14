@@ -58,9 +58,9 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 
   - **FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**
   
-      Pihai Sun, Junjun Jiang, **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu.
+      Pihai Sun, Junjun Jiang, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu.
     
-      **<font color="#ff79c6">IROS 2025** \| [paper](https://arxiv.org/abs/2503.19739) \| [project page](https://arxiv.org/abs/2503.19739)
+      **<font color="#ff79c6">IROS 2025</font>** \| [paper](https://arxiv.org/abs/2503.19739) \| [project page](https://arxiv.org/abs/2503.19739)
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
@@ -68,7 +68,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
   - **SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models**
   
-      Delin Qu\*, Haoming Song\*, Qizhi Chen\*, **<ins>Yuanqi Yao</ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
+      Delin Qu\*, Haoming Song\*, Qizhi Chen\*, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
     
       RSS 2025 \| [paper](https://arxiv.org/abs/2501.15830) \| [project page](https://spatialvla.github.io/)
   </div>
@@ -78,9 +78,9 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
   - **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**
     
-    **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
+    **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
     
-    **<font color="#ff79c6">CVPR 2025** \| [paper](https://arxiv.org/abs/2504.00420) \| [project page](https://arxiv.org/abs/2504.00420)
+    **<font color="#ff79c6">CVPR 2025</font>** \| [paper](https://arxiv.org/abs/2504.00420) \| [project page](https://arxiv.org/abs/2504.00420)
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/scat_eccv.png' alt="sym" width="100%"></div></div>
@@ -88,9 +88,9 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     
   - **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
     
-    **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
+    **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
     
-    **<font color="#ff79c6">ECCV 2024** \| [paper](https://arxiv.org/abs/2411.02149) \| [project page](https://arxiv.org/abs/2411.02149)
+    **<font color="#ff79c6">ECCV 2024</font>** \| [paper](https://arxiv.org/abs/2411.02149) \| [project page](https://arxiv.org/abs/2411.02149)
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
@@ -98,7 +98,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     
   - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
   
-    Youyu Chen, Junjun Jiang, **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
+    Youyu Chen, Junjun Jiang, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
     
     Under Review, 2024
   </div>
@@ -110,7 +110,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
     Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
     
-    **<font color="#ff79c6">NeurIPS 2024** \| [paper](https://arxiv.org/abs/2406.07594) \| [project page](https://github.com/AI45Lab/MLLMGuard)
+    **<font color="#ff79c6">NeurIPS 2024</font>** \| [paper](https://arxiv.org/abs/2406.07594) \| [project page](https://github.com/AI45Lab/MLLMGuard)
   </div>
   </div>
 
