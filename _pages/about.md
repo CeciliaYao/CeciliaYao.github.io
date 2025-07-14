@@ -58,7 +58,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 
   - **FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**
   
-      Pihai Sun, Junjun Jiang, **<ins>Yuanqi Yao</ins>**, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu.
+      Pihai Sun, Junjun Jiang, **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu.
     
       **<font color="#ff79c6">IROS 2025** \| [paper](https://arxiv.org/abs/2503.19739) \| [project page](https://arxiv.org/abs/2503.19739)
   </div>
@@ -78,7 +78,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
   
   - **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation**
     
-    **<ins>Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
+    **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Siao Liu, Haoming Song, Yan Ding, Bin Zhao, Zhigang Wang, Dong Wang, Xuelong Li.
     
     **<font color="#ff79c6">CVPR 2025** \| [paper](https://arxiv.org/abs/2504.00420) \| [project page](https://arxiv.org/abs/2504.00420)
   </div>
@@ -88,7 +88,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     
   - **Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training**
     
-    **<ins>Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
+    **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Gang Wu, Kui Jiang, Siao Liu, Jian Kuai, Xianming Liu, Junjun Jiang. 
     
     **<font color="#ff79c6">ECCV 2024** \| [paper](https://arxiv.org/abs/2411.02149) \| [project page](https://arxiv.org/abs/2411.02149)
   </div>
@@ -98,7 +98,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     
   - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
   
-    Youyu Chen, Junjun Jiang, **<ins>Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
+    Youyu Chen, Junjun Jiang, **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
     
     Under Review, 2024
   </div>
@@ -108,7 +108,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     
   - **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**
   
-    Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins>Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
+    Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
     
     **<font color="#ff79c6">NeurIPS 2024** \| [paper](https://arxiv.org/abs/2406.07594) \| [project page](https://github.com/AI45Lab/MLLMGuard)
   </div>
