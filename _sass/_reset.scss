@@ -10,6 +10,9 @@ html {
   box-sizing: border-box;
   background-color: $background-color;
   font-size: 20px; // 基础字体大小 //origin 20
+  @include breakpoint($small) {
+    font-size: 14px; // 中等屏幕上的字体大小 //origin 18
+  }
   @include breakpoint($medium) {
     font-size: 16px; // 中等屏幕上的字体大小 //origin 18
   }
