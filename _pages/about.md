@@ -108,7 +108,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     
   - **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**
   
-    Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins><font color="#bd93f9">Yuanqi Yao</ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
+    Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
     
     **<font color="#ff79c6">NeurIPS 2024</font>** \| [paper](https://arxiv.org/abs/2406.07594) \| [project page](https://github.com/AI45Lab/MLLMGuard)
   </div>
