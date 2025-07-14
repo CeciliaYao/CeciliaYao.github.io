@@ -24,7 +24,7 @@ author:
   name             : "Yuanqi Yao"
   avatar           : "https://p.sda1.dev/24/c16f115880c1c3c6e0ee67a0af1182d9/IMG_22672.jpg"
   bio              : "INSAIT"
-  location         : "Sofia, Bulgaria"
+  # location         : "Sofia, Bulgaria"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s482QHoAAAAJ&hl"
