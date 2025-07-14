@@ -119,7 +119,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
 # Meow & Woof
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: -30px;">
   <figure style="text-align: center; width: 270px;">
-    <img src="https://p.sda1.dev/24/9bca91f30ac7ce09c7ec1fe9bae96807/Toby.jpg" alt="My dog Toby" style="height: 400px; width: auto; max-width: 100%;"/>
+    <img src="https://p.sda1.dev/24/9bca91f30ac7ce09c7ec1fe9bae96807/Toby.jpg" alt="My dog Toby" style="width: 100%; height: auto; aspect-ratio: 2/3;"/>
     <figcaption>
       <strong>Toby</strong><br/>
       <em>2011 – 2024</em><br/>
@@ -127,7 +127,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     </figcaption>
   </figure>
   <figure style="text-align: center; width: 270px;">
-    <img src="images/Hz.jpg" alt="My cat Hz" style="height: 400px; width: auto; max-width: 100%;"/>
+    <img src="images/Hz.jpg" alt="My cat Hz" style="width: 100%; height: auto; aspect-ratio: 2/3;"/>
     <figcaption>
       <strong>Hz</strong><br/>
       <em>2023 - </em><br/>
@@ -135,7 +135,7 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     </figcaption>
   </figure>
   <figure style="text-align: center; width: 270px;">
-    <img src="images/HuHu.jpg" alt="My cat HuHu" style="height: 4-0px; width: auto; max-width: 100%;"/>
+    <img src="images/HuHu.jpg" alt="My cat HuHu" style="width: 100%; height: auto; aspect-ratio: 2/3;"/>
     <figcaption>
       <strong>HuHu</strong><br/>
       <em>2023 - </em><br/>
@@ -143,4 +143,4 @@ My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and
     </figcaption>
   </figure>
 </div>
-<span class='anchor' id='-xshy'></span>
+
