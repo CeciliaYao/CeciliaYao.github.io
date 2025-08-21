@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuanqi Yao"
-  avatar           : "https://p.sda1.dev/26/b0072e88b41c29545b8990bf5e123f9d/yunqiyao.jpg"
+  avatar           : "https://p.sda1.dev/26/fd3e728f1660e06b206354846b2742d5/yyq2.JPG"
   bio              : "INSAIT"
   # location         : "Sofia, Bulgaria"
   employer         : #"Hefei General Machinery Research Institute"
@@ -161,5 +161,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
