@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), an Ph.D. student at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/),[Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/) and [Dr. Jan-Nico Zaech](https://jannicozaech.github.io/). My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and robotic foundation models.</font>** Welcome to discuss and collaborate!
+Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a researcher at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/),[Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and robotic foundation models.</font>** Welcome to discuss and collaborate!
 
 Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I was supervised by [Dr. Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN).  I also earned both my Bachelor's and Master's degrees in Computer Science at [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), where I was advised by [Prof. Junjun Jiang](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -36,12 +36,13 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 # Internships
 - *2023.11 - 2025.07*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
 - *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
-- *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/)
-- *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.cn/)
+- *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/webapp/view_English/home.html)
+- *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.com/)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
 # Honors and Awards
+- **2<sup>nd</sup>** place at Multi-Agent Embodied Intelligence Challenge, Control Track (**NeurIPS 2025** Workshop)
 - **2<sup>nd</sup>** place at ECCV 2024 AIM, Depth Upsampling Challenge (**ECCV 2024** Workshop)
 - **1<sup>st</sup>** place at ICCV 2023 The ROAD++ Challenge, Agent Detection Track (**ICCV 2023** Workshop)
 - **2<sup>nd</sup>** place at ICCV 2023 The ROAD++ Challenge, Road event detection Track (**ICCV 2023** Workshop)
@@ -143,5 +144,6 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     </figcaption>
   </figure>
 </div>
+
 
 
