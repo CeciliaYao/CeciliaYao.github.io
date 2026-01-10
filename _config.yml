@@ -28,7 +28,7 @@ author:
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s482QHoAAAAJ&hl"
-  email            : "yuanqi.yao@insait.ai"
+  email            : "yaoyuanqi1115@gmail.com"
   # researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   # uri              : 
   # bitbucket        :
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
