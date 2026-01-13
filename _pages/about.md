@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a researcher at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). My research focuses on **<font color="#ff79c6">Embodied AI, particularly VLA and robotic foundation models.</font>** Welcome to discuss and collaborate!
+Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a researcher at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://insait.ai/prof-luc-van-gool/) and [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/). My research focuses on **<font color="#ff79c6">Embodied AI, particularly Vision-Language-Action(VLA) foundation models.</font>** Welcome to discuss and collaborate!
 
 Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I was supervised by [Dr. Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN).  I also earned both my Bachelor's and Master's degrees in Computer Science at [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), where I was advised by [Prof. Junjun Jiang](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -144,6 +144,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     </figcaption>
   </figure>
 </div>
+
 
 
 
