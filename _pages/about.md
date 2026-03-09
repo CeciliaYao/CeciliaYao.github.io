@@ -53,7 +53,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 
 <span class='anchor' id='-publications'></span>
 
-# Publications
+# Selected Publications
 <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/hume.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -104,16 +104,6 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     **<font color="#ff79c6">ECCV 2024</font>** \| [paper](https://arxiv.org/abs/2411.02149) \| [project page](https://arxiv.org/abs/2411.02149)
   </div>
   </div>
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/nips2024.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-    
-  - **Enhance Image-Based Rendering with Unsupervised Source-View Geometric Constrain**
-  
-    Youyu Chen, Junjun Jiang, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Kui Jiang, Wenbo Zhao, Xianming Liu.
-    
-    Under Review, 2024
-  </div>
-  </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mllmguard.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
     
@@ -154,6 +144,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     </figcaption>
   </figure>
 </div>
+
 
 
 
