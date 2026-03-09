@@ -74,14 +74,14 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
       **<font color="#ff79c6">IROS 2025</font>** \| [paper](https://arxiv.org/abs/2503.19739) \| [project page](https://arxiv.org/abs/2503.19739)
   </div>
   </div>
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025 Highlight</div><img src='images/spatialvla.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   - **SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models**
   
       Delin Qu\*, Haoming Song\*, Qizhi Chen\*, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Xinyi Ye, Jiayuan Gu, Bin Zhao, Dong Wang, Xuelong Li.
     
-      **<font color="#ff79c6">RSS 2025</font>** \| [paper](https://arxiv.org/abs/2501.15830) \| [project page](https://spatialvla.github.io/)
+      **<font color="#ff79c6">RSS 2025 Highlight</font>** \| [paper](https://arxiv.org/abs/2501.15830) \| [project page](https://spatialvla.github.io/)
   </div>
   </div>
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ppl.png' alt="sym" width="100%"></div></div>
@@ -154,6 +154,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     </figcaption>
   </figure>
 </div>
+
 
 
 
