@@ -54,8 +54,9 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 <span class='anchor' id='-publications'></span>
 
 # Selected Publications
-<div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/hume.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+
+ <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/hume.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box-text' markdown="1">
 
   - **FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denosing**
   
@@ -144,6 +145,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     </figcaption>
   </figure>
 </div>
+
 
 
 
