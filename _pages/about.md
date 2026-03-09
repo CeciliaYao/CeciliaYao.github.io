@@ -23,10 +23,10 @@ Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a researcher at [INSAIT](https://in
 Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I was supervised by [Dr. Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN) and [Prof. Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ&hl=zh-CN).  I also earned both my Bachelor's and Master's degrees in Computer Science at [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), where I was advised by [Prof. Junjun Jiang](https://scholar.google.com/citations?hl=zh-CN&user=WNH2_rgAAAAJ&view_op=list_works&sortby=pubdate).
 
 # News
+- *2026.03*: One paper is accepted by CVPR 2026!
 - *2025.06*: One paper is accepted by IROS 2025!
-- *2025.04*: One paper is accepted by RSS 2025!
+- *2025.04*: Our paper **SpatialVLA** is accepted by [<ins>RSS 2025 Highlight</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
 - *2025.03*: One paper is accepted by CVPR 2025!
-- *2025.01*: Our paper **SpatialVLA** released on [<ins>arXiv</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
 - *2024.09*: One paper is accepted by NeurIPS 2024!
 - *2024.07*: We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
 - *2024.07*: One paper is accepted by ECCV 2024!
@@ -54,7 +54,17 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 <span class='anchor' id='-publications'></span>
 
 # Publications
-  <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/fuse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/fuse.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  - **FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denosing**
+  
+      Haoming Song\*, Delin Qu\*, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Qizhi Chen, Jiarui Li, Qi Lv, Yiwen Tang, Li Kang, Heng Zhou, Xianqiang Gao, Yuhang Tang, Xiaofan Li, Modi Shi, Guanghui Ren, Maoqing Yao, Bin Zhao, Dong Wang, Xuelong Li.
+    
+      **<font color="#ff79c6">CVPR 2026</font>** \| [paper](https://arxiv.org/abs/2505.21432) \| [project page](https://hume-vla.github.io/)
+  </div>
+  </div>
+  <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/fuse.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   - **FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**
@@ -144,6 +154,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     </figcaption>
   </figure>
 </div>
+
 
 
 
