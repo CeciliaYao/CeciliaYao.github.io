@@ -64,7 +64,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
       **<font color="#ff79c6">CVPR 2026</font>** \| [paper](https://arxiv.org/abs/2505.21432) \| [project page](https://hume-vla.github.io/)
   </div>
   </div>
-  <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/fuse.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/fuse.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   - **FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**
@@ -154,6 +154,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     </figcaption>
   </figure>
 </div>
+
 
 
 
