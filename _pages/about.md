@@ -34,10 +34,10 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 <span class='anchor' id='-internships'></span>
 
 # Internships
-- *2023.11 - 2025.07*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
-- *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
-- *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/webapp/view_English/home.html)
-- *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.com/)
+- *2023.11 - 2025.07*, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
+- *2023.08 - 2023.11*, [**Baidu VIS**](https://vis.baidu.com/#/)
+- *2023.06 - 2023.08*, [**Lenovo Research**](https://research.lenovo.com/webapp/view_English/home.html)
+- *2022.06 - 2022.10*, [**NIO**](https://www.nio.com/)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -105,17 +105,6 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
     **<font color="#ff79c6">ECCV 2024</font>** \| [paper](https://arxiv.org/abs/2411.02149) \| [project page](https://arxiv.org/abs/2411.02149)
   </div>
   </div>
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mllmguard.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-    
-  - **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**
-  
-    Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang.
-    
-    **<font color="#ff79c6">NeurIPS 2024</font>** \| [paper](https://arxiv.org/abs/2406.07594) \| [project page](https://github.com/AI45Lab/MLLMGuard)
-  </div>
-  </div>
-
 <span class='anchor' id='-meow-and-woof'></span>
 
 # Meow & Woof
