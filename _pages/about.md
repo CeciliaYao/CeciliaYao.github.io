@@ -60,7 +60,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 
   - **FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denosing**
   
-      Haoming Song\*, Delin Qu\*, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Qizhi Chen, Jiarui Li, Qi Lv, Yiwen Tang, Li Kang, Heng Zhou, Xianqiang Gao, Yuhang Tang, Xiaofan Li, Modi Shi, Guanghui Ren, Maoqing Yao, Bin Zhao, Dong Wang, Xuelong Li.
+      Haoming Song\*, Delin Qu\*, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Qizhi Chen, Qi Lv, Yiwen Tang, Modi Shi, Guanghui Ren, Maoqing Yao, Bin Zhao, Dong Wang, Xuelong Li
     
       **<font color="#ff79c6">CVPR 2026</font>** \| [paper](https://arxiv.org/abs/2505.21432) \| [project page](https://hume-vla.github.io/)
   </div>
