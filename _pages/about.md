@@ -110,7 +110,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 # Meow & Woof
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: -30px;">
   <figure style="text-align: center; width: 270px;">
-    <img src="https://p.sda1.dev/24/9bca91f30ac7ce09c7ec1fe9bae96807/Toby.jpg" alt="My dog Toby" style="width: 100%; height: auto; aspect-ratio: 2/3;"/>
+    <img src="images/Toby.jpg" alt="My dog Toby" style="width: 100%; height: auto; aspect-ratio: 2/3;"/>
     <figcaption>
       <strong>Toby</strong><br/>
       <em>2011 – 2024</em><br/>
