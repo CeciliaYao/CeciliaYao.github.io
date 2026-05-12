@@ -23,6 +23,7 @@ Welcome! I'm Yuanqi Yao (姚元淇, CC Yao), a researcher at [INSAIT](https://in
 Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), where I was supervised by [Dr. Dong Wang](https://scholar.google.es/citations?user=dasL9V4AAAAJ&hl=zh-CN).  I also earned both my Bachelor's and Master's degrees in Computer Science at [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/).
 
 # News
+- *2026.05*: One paper is accepted by RSS 2026!
 - *2026.03*: One paper is accepted by CVPR 2026!
 - *2025.06*: One paper is accepted by IROS 2025!
 - *2025.04*: Our paper **SpatialVLA** is accepted by [<ins>RSS 2025 Highlight</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
@@ -54,8 +55,17 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 <span class='anchor' id='-publications'></span>
 
 # Selected Publications
+<div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='images/arvla.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box-text' markdown="1">
 
- <div class='paper-box' style="margin-top: -50px;"><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/hume.png' alt="sym" width="100%"></div></div>
+  - **AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models**
+  
+      Yutong Hu, Jan-Nico Zaech, Nikolay Nikolov, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Sombit Dey, Giuliano Albanese, Renaud Detry, Luc Van Gool, Danda Paudel
+    
+      **<font color="#ff79c6">RSS 2026</font>** \| [paper](https://arxiv.org/pdf/2603.10126) \| [project page](https://arvla.insait.ai/)
+  </div>
+  </div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/hume.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
 
   - **FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denosing**
