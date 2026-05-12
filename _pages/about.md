@@ -34,10 +34,10 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 <span class='anchor' id='-internships'></span>
 
 # Internships
-- *2023.11 - 2025.07*, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
-- *2023.08 - 2023.11*, [**Baidu VIS**](https://vis.baidu.com/#/)
-- *2023.06 - 2023.08*, [**Lenovo Research**](https://research.lenovo.com/webapp/view_English/home.html)
-- *2022.06 - 2022.10*, [**NIO**](https://www.nio.com/)
+- *2023.11 - 2025.07*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
+- *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
+- *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/webapp/view_English/home.html)
+- *2022.06 - 2022.10*, Autonomous Driving Perception Intern,  [**NIO**](https://www.nio.com/)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -60,7 +60,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 
   - **FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denosing**
   
-      Haoming Song\*, Delin Qu\*, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Qizhi Chen, Qi Lv, Yiwen Tang, Modi Shi, Guanghui Ren, Maoqing Yao, Bin Zhao, Dong Wang, Xuelong Li
+      Haoming Song\*, Delin Qu\*, **<ins><font color="#bd93f9">Yuanqi Yao</font></ins>**, Qizhi Chen, Jiarui Li, Qi Lv, Yiwen Tang, Li Kang, Heng Zhou, Xianqiang Gao, Yuhang Tang, Xiaofan Li, Modi Shi, Guanghui Ren, Maoqing Yao, Bin Zhao, Dong Wang, Xuelong Li.
     
       **<font color="#ff79c6">CVPR 2026</font>** \| [paper](https://arxiv.org/abs/2505.21432) \| [project page](https://hume-vla.github.io/)
   </div>
