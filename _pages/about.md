@@ -26,7 +26,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 - *2026.05*: One paper is accepted by RSS 2026!
 - *2026.03*: One paper is accepted by CVPR 2026!
 - *2025.06*: One paper is accepted by IROS 2025!
-- *2025.04*: Our paper **SpatialVLA** is accepted by [<ins>RSS 2025 Highlight</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
+- *2025.04*: Our paper **SpatialVLA** is accepted by [<ins>RSS 2025</ins>](https://arxiv.org/abs/2501.15830) ([<ins>Project Page</ins>](https://spatialvla.github.io/))!
 - *2025.03*: One paper is accepted by CVPR 2025!
 - *2024.09*: One paper is accepted by NeurIPS 2024!
 - *2024.07*: We placed 2<sup>nd</sup> in ECCV 2024 AIM Depth Upsampling Challenge!
