@@ -35,6 +35,7 @@ Prior to this, I completed a long-term internship at the [Shanghai AI Laboratory
 <span class='anchor' id='-internships'></span>
 
 # Internships
+- *2026.06 - Now*, Robotics Intern, [**ByteDance**](https://www.bytedance.com/en/)
 - *2023.11 - 2025.07*, Embodied AI Intern, [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)
 - *2023.08 - 2023.11*, Computer Vision Intern,  [**Baidu VIS**](https://vis.baidu.com/#/)
 - *2023.06 - 2023.08*, Computer Vision Research Intern, [**Lenovo Research**](https://research.lenovo.com/webapp/view_English/home.html)
