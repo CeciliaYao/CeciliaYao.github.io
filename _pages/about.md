@@ -24,7 +24,7 @@ Previously, I was a researcher at [INSAIT](https://insait.ai/), under the superv
 
 
 # News
-- *2026.10*: My research has received over **1,000 citations** on Google Scholar! [![Google Scholar Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3Ds482QHoAAAAJ&logo=googlescholar)](https://scholar.google.com/citations?user=s482QHoAAAAJ)
+- *2026.10*: My research has received over **1,000 citations**! [![Google Scholar Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3Ds482QHoAAAAJ&logo=googlescholar)](https://scholar.google.com/citations?user=s482QHoAAAAJ)
 - *2026.05*: One paper is accepted by RSS 2026!
 - *2026.03*: One paper is accepted by CVPR 2026!
 - *2025.06*: One paper is accepted by IROS 2025!
